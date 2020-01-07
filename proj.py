@@ -33,10 +33,10 @@ class UI:
 		sys.stdout.write(self.ERASE_LINE)
 		print()
 
-consumerKey = 'RLvsQ2osAAJpgP0IYStNXBcpt'
-consumerSecret = 'l3tmoHs6GKpFa3ddMnVFrsd7JYFRgZ1OaTaTtPFDi9AEXIbakn'
-accessToken = '937020546-tA9e5FTAs51ocISsQ1KgMR7aEsDOlAZKQCZQ4xi5'
-accessTokenSecret = 't9sMfDKJfZMVl4PakNpJqXwxVzIRqrjds6HQVUlysmVsf'
+consumerKey = 'xxxxxxxxxxxxxxxxxxxxxxxxx'
+consumerSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+accessToken = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+accessTokenSecret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 query = input('Enter keyword or query: ')
 num = int(input('No. of entries: '))
